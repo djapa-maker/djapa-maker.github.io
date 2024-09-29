@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Apple Stock Prediction",
+    "desc": "Used SARIMA in R to forecast Apple’s stock price trend.",
+    "image": "apple",
+    "category": "Artificial Intelligence",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/apple-stock"
+    }
+  },
+  {
+    "name": "Anomaly Detection",
+    "desc": "Built a machine learning model to spot security incidents, integrated with Flask.",
+    "image": "cyber",
+    "category": "Artificial Intelligence",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/kDD-Anomaly-Detection"
+    }
+  },
+  {
+    "name": "Churn Detection",
+    "desc": "Created a model to detect customer churn using advanced feature engineering.",
+    "image": "churn",
+    "category": "Artificial Intelligence",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/churn-detection"
+    }
+  },
+  {
+    "name": "Rename Shell Script",
+    "desc": "A bash script for renaming and managing files in Linux.",
+    "image": "bash",
+    "category": "Development",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/Scripting"
+    }
+  },
+  {
+    "name": "ArtMart",
+    "desc": "A platform for purchasing art and submitting projects, using Symfony and Java.",
+    "image": "test",
+    "category": "Development",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/ArtMart"
+    }
+  },
+  {
+    "name": "Hogwart University",
+    "desc": "An online learning platform designed for students during the pandemic.",
+    "image": "hogwart",
+    "category": "Development",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/Web"
+    }
+  },
+  {
+    "name": "NexTech",
+    "desc": "A shopping app for tech products with customer reviews.",
+    "image": "nextech",
+    "category": "Development",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/smart_tech_store_2A11"
+    }
+  },
+  {
+    "name": "Veneficus",
+    "desc": "A 2D game developed in C using SDL on Linux/Ubuntu.",
+    "image": "vene",
+    "category": "Development",
+    "links": {
+      "code": "#"
+    }
+  },
+  {
+    "name": "Intelligent Trading Agent",
+    "desc": "Optimized portfolios using deep learning, deployed with Django and Dash. Integrated sentiment analysis and Power BI dashboards.",
+    "image": "trading",
+    "category": "Artificial Intelligence",
+    "links": {
+      "code": "https://github.com/MedAmirSoltani/trading-agent"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=M1bt3ZHCANRW&format=png&color=000000"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/?size=100&id=gkIpkwOdutWO&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "kubernetes",
+        "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/?size=100&id=90519&format=png&color=000000"
+    },
+    {
+        "name": ".Net",
+        "icon": "https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000"
+    },
+    {
+        "name": "Symfony",
+        "icon": "https://img.icons8.com/?size=100&id=jpa398oAm0WY&format=png&color=000000"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
+    },
+    {
+        "name": "OpenStack",
+        "icon": "https://img.icons8.com/?size=100&id=13670&format=png&color=000000"
+    }
+]
