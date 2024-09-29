@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Mohamed Amir Soltani";
+            document.title = "Projects | Portfolio yesmine guesmi";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
