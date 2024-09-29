@@ -20,7 +20,7 @@
     },
     {
       "name": "Mindcare",
-      "desc": "Mindcare est une application conçue pour soutenir la santé mentale universitaire.",
+      "desc": "Mindcare is an app designed to support university mental health.",
       "image": "trading",
       "category": "Development",
       "links": {
@@ -56,7 +56,7 @@
     },
     {
       "name": "eventili",
-      "desc": "Evëntili est une application Web mobile et Desktop conçue pour simplifier l'organisation et la création des événements.",
+      "desc": "Evëntili is a mobile and desktop web application designed to simplify the organization and creation of events.",
       "image": "eventili",
       "category": "Artificial Intelligence",
       "links": {
