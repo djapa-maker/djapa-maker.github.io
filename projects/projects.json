@@ -1,7 +1,4 @@
-
-
-  
-  [
+[
     {
       "name": "Apple Stock Prediction",
       "desc": "Used SARIMA in R to forecast Apple’s stock price trend.",
